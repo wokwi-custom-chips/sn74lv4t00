@@ -1,0 +1,24 @@
+{ "version": 0.1,
+  "name": "sn74lv4t00",
+  "author": "Algovoid",
+  "docs": "https://github.com/wokwi-custom-chips/cd4070b/blob/main/docs/README.md",
+  "license": "MIT",
+  "pins": [
+
+    "1A",
+    "1B",
+    "1Y",
+    "2A",
+    "2B",
+    "2Y",
+    "GND",
+    "3Y",
+    "3A",
+    "3B",
+    "4Y",
+    "4A",
+    "4B",
+    "VCC"    
+  ],
+  "controls": []
+}
